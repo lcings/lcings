@@ -1,7 +1,15 @@
-### Hi there 👋
+### Hi 😄, I'm lcings, An Android CV Programer.
+
+### Github State
+![lcings github stats](https://github-readme-stats.vercel.app/api?username=lcings&show_icons=true&theme=radical)
+
+### Contact
+**WeChat：lcings**
+
+**WebSite：[www.lcings.com](http://www.lcings.com)**
 
 <!--
-**lcings/lcings** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**githubhaohao/githubhaohao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
