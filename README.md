@@ -1,9 +1,8 @@
 ### Hi 😄, I'm lcings, An Android CV Programer.
 
-### Github State:
 ![lcings github stats](https://github-readme-stats.vercel.app/api?username=lcings&show_icons=true&theme=radical)
 
-### Contact:
+### Contact
 **WeChat：lcings**
 
 **WebSite：[www.lcings.com](http://www.lcings.com)**
