@@ -3,7 +3,7 @@
 ![lcings github stats](https://github-readme-stats.vercel.app/api?username=lcings&show_icons=true&theme=radical)
 
 ### Contact
-**WeChat：lcings**
+**e-mail：lcings@1630.com**
 
 **WebSite：[www.lcings.com](http://www.lcings.com)**
 
