@@ -1,4 +1,4 @@
-### Hi 😄, I'm lcings, An Android CV Programer.
+### Hi 😄, I'm lcings, an android cv programer.
 
 ![lcings github stats](https://github-readme-stats.vercel.app/api?username=lcings&show_icons=true&theme=radical)
 
